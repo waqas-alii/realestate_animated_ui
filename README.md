@@ -16,12 +16,12 @@ Welcome to the Real Estate UI Animations repository! This Flutter project showca
 
 Watch the demo video below:
 
-![Demo Video](assets/demo-video.mp4)
+<iframe width="560" height="315" src="https://youtube.com/shorts/rXiIVdyXYWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 # First Run
 
-The project is configured with mock data if you run the **MOCK** flavor. See the next section for configuring run configurations.
 
 After installing the package dependencies with
 
@@ -29,9 +29,9 @@ After installing the package dependencies with
 flutter pub get
 ```
 
-run the code generation tool
+run the code 
 
 ```
-flutter pub run build_runner build
+flutter run
 ```
 
