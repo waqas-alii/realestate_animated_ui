@@ -16,7 +16,7 @@ Welcome to the Real Estate UI Animations repository! This Flutter project showca
 
 Watch the demo video below:
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/rXiIVdyXYWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Click to see Demo](https://youtube.com/shorts/rXiIVdyXYWo?si=_LK3IccMwzxksUpX)
 
 
 
